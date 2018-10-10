@@ -32,6 +32,7 @@ object StatusBarUtil {
     private const val FAKE_TRANSLUCENT_VIEW_ID = R.id.statusbarutil_translucent_view
     private const val TAG_KEY_HAVE_SET_OFFSET = -123
 
+
     /**
      * 设置状态栏颜色
      *
